@@ -1,2 +1,3 @@
 # kocabasmehmet.github.io
-sw applications
+Mehmet Kocabaş
+contact: mkmehmetkocabas@gmail.com
